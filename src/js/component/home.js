@@ -16,7 +16,7 @@ export function Home() {
 			</a>
 			<p>
 				Made by{" "}
-				<a href="http://www.4geeksacademy.com">4Geeks Academy</a>, with
+				<a href="http://www.4geeksacademy.com">lololo</a>, with
 				love!
 			</p>
 		</div>
